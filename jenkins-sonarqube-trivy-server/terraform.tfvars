@@ -1,0 +1,5 @@
+vpc_id        = "vpc-0226c4514c1bfeee4"
+instance_type = "m7i-flex.large"
+ami           = "ami-0fa3fe0fa7920f68e"
+key_pair      = "linux"
+subnet_id     = "subnet-04ed7e22c9e0045d1"
